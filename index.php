@@ -21,6 +21,7 @@ include_once __DIR__ . ('/language/translate.php') ;
 <header>
     <h2 class="logo">PORTIFÓLIO</h2>
 
+    <!--navbar-->
     <nav class="navigation">
 
         <a href="#inicio">INICIO</a>
@@ -31,11 +32,6 @@ include_once __DIR__ . ('/language/translate.php') ;
     </nav>
 </header>
     
-    <section class="inicio" id="inicio">
-
-    </section>
-
-
 </body>
 
     <script type="javascript;" src="bootstrap/js/bootstrap.js"></script>
